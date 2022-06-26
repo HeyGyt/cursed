@@ -21,12 +21,6 @@ end)
 end
 end
 
-game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "Notification";
-	Text = "Netless activated";
-	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
-Duration = 16;
-
 HumanDied = false
 local reanim
 function noplsmesh(hat)
